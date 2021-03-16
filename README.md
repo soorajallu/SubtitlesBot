@@ -2,7 +2,6 @@
 
 A Simple Telegram subtitle Bot Made in Python.
 
-\
 
 
 
